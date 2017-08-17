@@ -2,8 +2,10 @@
 set nu
 "Tab space == 4
 set ts=4
-"Shift width == 4
-set sw=4
+"Shift width == 2
+set sw=2
+"shift on tab click
+set sts=2
 "set autoindent
 set ai
 "set auto indent after for, if code line
